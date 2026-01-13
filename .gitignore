@@ -1,11 +1,11 @@
-Waveshooter/[Ll]ibrary/
-Waveshooter/[Tt]emp/
-Waveshooter/[Oo]bj/
-Waveshooter/[Bb]uild/
-Waveshooter/[Bb]uilds/
-Waveshooter/[Uu]ser[Ss]ettings/
-Waveshooter/[Ll]ogs/
-Waveshooter/[Mm]emoryCaptures/
+MobileGame/[Ll]ibrary/
+MobileGame/[Tt]emp/
+MobileGame/[Oo]bj/
+MobileGame/[Bb]uild/
+MobileGame/[Bb]uilds/
+MobileGame/[Uu]ser[Ss]ettings/
+MobileGame/[Ll]ogs/
+MobileGame/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta

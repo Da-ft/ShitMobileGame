@@ -38,4 +38,13 @@ public class SaveManager : MonoBehaviour
         string json = File.ReadAllText(savePath);
         return JsonUtility.FromJson<SaveData>(json);
     }
+
+    public void DeleteSaveFile()
+    {
+        if (File.Exists(savePath))
+        {
+            File.Delete(savePath);
+            Debug.Log("Savegame erfolgreich gelöscht!");
+        }
+    }
 }

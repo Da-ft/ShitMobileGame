@@ -29,7 +29,8 @@ public class OfflineManager : MonoBehaviour
     private float CalculateCurrentDPS()
     {
         // Logik: Schaden / Intervall (z.B. 10 Schaden alle 2 Sek = 5 DPS)
-        var stats = UpgradeManager.Instance.autoMiner.stats;
-        return stats.baseDamage / stats.attackInterval;
+        //var stats = UpgradeManager.Instance.autoMiner.stats;
+        //return stats.baseDamage / stats.attackInterval;
+        return 0;
     }
 }

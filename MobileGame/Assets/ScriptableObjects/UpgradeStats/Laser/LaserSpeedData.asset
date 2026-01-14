@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 769ef6ae4b2176243beded52950dcec4, type: 3}
-  m_Name: CritChance
+  m_Name: LaserSpeedData
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  upgradeName: CritChance
-  baseCost: 15
+  upgradeName: Laser Speed
+  baseCost: 10
   costMultiplier: 1.15
-  baseValue: 2
-  bonusPerLevel: 5
+  baseValue: 1
+  bonusPerLevel: 0.05

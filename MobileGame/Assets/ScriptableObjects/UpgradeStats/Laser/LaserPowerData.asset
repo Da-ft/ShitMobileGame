@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 769ef6ae4b2176243beded52950dcec4, type: 3}
-  m_Name: LaserPower
+  m_Name: LaserPowerData
   m_EditorClassIdentifier: Assembly-CSharp::UpgradeData
-  upgradeName: LaserDamage
+  upgradeName: Laser Power
   baseCost: 10
   costMultiplier: 1.15
-  baseValue: 5
+  baseValue: 10
   bonusPerLevel: 5
